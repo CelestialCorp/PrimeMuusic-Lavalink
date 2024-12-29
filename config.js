@@ -39,9 +39,9 @@ module.exports = {
   nodes: [
     {
         name: "Server",
-        host: "lavalink_v4.muzykant.xyz",
-        port: 443,
-        password: "https://discord.gg/v6sdrD9kPh",
+        host: "lava-v4.ajieblogs.eu.org",
+        port: 80,
+        password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
